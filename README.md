@@ -1,4 +1,4 @@
-# Pets Care - Gestão de cuidados do Pet
+# My Pet Care - Gestão de cuidados do Pet
 
 O sistema My Pet Care ajudará os tutores de animais a manter o protocolo de vacinas e medicamentos em dia prevenindo doenças que podem surgir em qualquer fase da vida do animal. 
 
